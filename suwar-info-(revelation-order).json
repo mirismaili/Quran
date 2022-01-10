@@ -1,0 +1,1381 @@
+[
+	{
+		"name": "العَلَق",
+		"pronunciation": "al-‘Alaq",
+		"names": [
+			"العلق"
+		],
+		"persianName": "علق",
+		"englishName": "The Clinging Mass",
+		"numAyat": 19,
+		"revelationPlace": "مَكيَّة",
+		"index": 96
+	},
+	{
+		"name": "القَلَم",
+		"pronunciation": "al-Qalam",
+		"names": [
+			"القلم"
+		],
+		"persianName": "قلم",
+		"englishName": "The Pen",
+		"numAyat": 52,
+		"revelationPlace": "مَكيَّة",
+		"index": 68
+	},
+	{
+		"name": "المُزَّمِّل",
+		"pronunciation": "al-Muzzammil",
+		"names": [
+			"المزمل"
+		],
+		"persianName": "مزمل",
+		"englishName": "Enwrapped",
+		"numAyat": 20,
+		"revelationPlace": "مَكيَّة",
+		"index": 73
+	},
+	{
+		"name": "المُدَّثِّر",
+		"pronunciation": "al-Muddaththir",
+		"names": [
+			"المدثر"
+		],
+		"persianName": "مدثر",
+		"englishName": "Shrouded",
+		"numAyat": 56,
+		"revelationPlace": "مَكيَّة",
+		"index": 74
+	},
+	{
+		"name": "الفَاتِحَة",
+		"pronunciation": "al-Fātiḥah",
+		"names": [
+			"الفاتحة",
+			"أم الكتاب",
+			"أم القرآن",
+			"السبع المثاني",
+			"الحمد",
+			"الشفاء"
+		],
+		"persianName": "حمد",
+		"englishName": "The Opening",
+		"numAyat": 7,
+		"revelationPlace": "مَكيَّة",
+		"index": 1
+	},
+	{
+		"name": "المَسَد",
+		"pronunciation": "al-Masad",
+		"names": [
+			"المسد"
+		],
+		"persianName": "مسد",
+		"englishName": "Palm Fibre",
+		"numAyat": 5,
+		"revelationPlace": "مَكيَّة",
+		"index": 111
+	},
+	{
+		"name": "التَّكوير",
+		"pronunciation": "al-Takwīr",
+		"names": [
+			"التكوير"
+		],
+		"persianName": "تکویر",
+		"englishName": "The Winding Up",
+		"numAyat": 29,
+		"revelationPlace": "مَكيَّة",
+		"index": 81
+	},
+	{
+		"name": "الأَعْلى",
+		"pronunciation": "al-A‘lā",
+		"names": [
+			"الأعلى"
+		],
+		"persianName": "اعلی",
+		"englishName": "The Most Exalted",
+		"numAyat": 19,
+		"revelationPlace": "مَكيَّة",
+		"index": 87
+	},
+	{
+		"name": "الليْل",
+		"pronunciation": "al-Layl",
+		"names": [
+			"الليل"
+		],
+		"persianName": "اللیل",
+		"englishName": "The Night",
+		"numAyat": 21,
+		"revelationPlace": "مَكيَّة",
+		"index": 92
+	},
+	{
+		"name": "الفَجْر",
+		"pronunciation": "al-Fajr",
+		"names": [
+			"الفجر"
+		],
+		"persianName": "فجر",
+		"englishName": "The Dawn",
+		"numAyat": 30,
+		"revelationPlace": "مَكيَّة",
+		"index": 89
+	},
+	{
+		"name": "الضُّحَى",
+		"pronunciation": "al-Ḍuḥā",
+		"names": [
+			"الضحى"
+		],
+		"persianName": "الضحى",
+		"englishName": "The Morning Brightness",
+		"numAyat": 11,
+		"revelationPlace": "مَكيَّة",
+		"index": 93
+	},
+	{
+		"name": "الشَّرْح",
+		"pronunciation": "al-Sharḥ",
+		"names": [
+			"الشرح"
+		],
+		"persianName": "انشراح",
+		"englishName": "Opening",
+		"numAyat": 8,
+		"revelationPlace": "مَكيَّة",
+		"index": 94
+	},
+	{
+		"name": "العَصْر",
+		"pronunciation": "al-‘Aṣr",
+		"names": [
+			"العصر"
+		],
+		"persianName": "عصر",
+		"englishName": "Time",
+		"numAyat": 3,
+		"revelationPlace": "مَكيَّة",
+		"index": 103
+	},
+	{
+		"name": "العَادِيات",
+		"pronunciation": "al-‘Ādiyāt",
+		"names": [
+			"العاديات"
+		],
+		"persianName": "عادیات",
+		"englishName": "The Chargers",
+		"numAyat": 11,
+		"revelationPlace": "مَكيَّة",
+		"index": 100
+	},
+	{
+		"name": "الكَوْثَر",
+		"pronunciation": "al-Kawthar",
+		"names": [
+			"الكوثر"
+		],
+		"persianName": "کوثر",
+		"englishName": "Abundance",
+		"numAyat": 3,
+		"revelationPlace": "مَكيَّة",
+		"index": 108
+	},
+	{
+		"name": "التَّكَاثر",
+		"pronunciation": "al-Takāthur",
+		"names": [
+			"التكاثر"
+		],
+		"persianName": "تکاثر",
+		"englishName": "Rivalry",
+		"numAyat": 8,
+		"revelationPlace": "مَكيَّة",
+		"index": 102
+	},
+	{
+		"name": "المَاعُون",
+		"pronunciation": "al-Mā‘ūn",
+		"names": [
+			"الماعون"
+		],
+		"persianName": "ماعون",
+		"englishName": "Aid",
+		"numAyat": 7,
+		"revelationPlace": "مَكيَّة",
+		"index": 107
+	},
+	{
+		"name": "الكَافِرُون",
+		"pronunciation": "al-Kāfirūn",
+		"names": [
+			"الكافرون"
+		],
+		"persianName": "کافرون",
+		"englishName": "The Faithless",
+		"numAyat": 6,
+		"revelationPlace": "مَكيَّة",
+		"index": 109
+	},
+	{
+		"name": "الفِيل",
+		"pronunciation": "al-Fīl",
+		"names": [
+			"الفيل"
+		],
+		"persianName": "فیل",
+		"englishName": "The Elephant",
+		"numAyat": 5,
+		"revelationPlace": "مَكيَّة",
+		"index": 105
+	},
+	{
+		"name": "الفَلَق",
+		"pronunciation": "al-Falaq",
+		"names": [
+			"الفلق"
+		],
+		"persianName": "فلق",
+		"englishName": "The Daybreak",
+		"numAyat": 5,
+		"revelationPlace": "مَكيَّة",
+		"index": 113
+	},
+	{
+		"name": "النَّاس",
+		"pronunciation": "al-Nās",
+		"names": [
+			"الناس"
+		],
+		"persianName": "ناس",
+		"englishName": "Humans",
+		"numAyat": 6,
+		"revelationPlace": "مَكيَّة",
+		"index": 114
+	},
+	{
+		"name": "الإخْلَاص",
+		"pronunciation": "al-Ikhlāṣ",
+		"names": [
+			"الإخلاص"
+		],
+		"persianName": "اخلاص",
+		"englishName": "Monotheism",
+		"numAyat": 4,
+		"revelationPlace": "مَكيَّة",
+		"index": 112
+	},
+	{
+		"name": "النَّجْم",
+		"pronunciation": "al-Najm",
+		"names": [
+			"النجم"
+		],
+		"persianName": "نجم",
+		"englishName": "The Star",
+		"numAyat": 62,
+		"revelationPlace": "مَكيَّة",
+		"index": 53
+	},
+	{
+		"name": "عَبَس",
+		"pronunciation": "‘Abasa",
+		"names": [
+			"عبس"
+		],
+		"persianName": "عبس",
+		"englishName": "He frowned",
+		"numAyat": 42,
+		"revelationPlace": "مَكيَّة",
+		"index": 80
+	},
+	{
+		"name": "القَدْر",
+		"pronunciation": "al-Qadr",
+		"names": [
+			"القدر"
+		],
+		"persianName": "قدر",
+		"englishName": "The Ordainment",
+		"numAyat": 5,
+		"revelationPlace": "مَكيَّة",
+		"index": 97
+	},
+	{
+		"name": "الشَّمْس",
+		"pronunciation": "al-Shams",
+		"names": [
+			"الشمس"
+		],
+		"persianName": "شمس",
+		"englishName": "The Sun",
+		"numAyat": 15,
+		"revelationPlace": "مَكيَّة",
+		"index": 91
+	},
+	{
+		"name": "البرُوج",
+		"pronunciation": "al-Burūj",
+		"names": [
+			"البروج"
+		],
+		"persianName": "بروج",
+		"englishName": "The Houses",
+		"numAyat": 22,
+		"revelationPlace": "مَكيَّة",
+		"index": 85
+	},
+	{
+		"name": "التِّين",
+		"pronunciation": "al-Tīn",
+		"names": [
+			"التين"
+		],
+		"persianName": "تین",
+		"englishName": "The Fig",
+		"numAyat": 8,
+		"revelationPlace": "مَكيَّة",
+		"index": 95
+	},
+	{
+		"name": "قُرَيْش",
+		"pronunciation": "Quraysh",
+		"names": [
+			"قريش"
+		],
+		"persianName": "قریش",
+		"englishName": "Quraysh",
+		"numAyat": 4,
+		"revelationPlace": "مَكيَّة",
+		"index": 106
+	},
+	{
+		"name": "القَارِعة",
+		"pronunciation": "al-Qāri‘ah",
+		"names": [
+			"القارعة"
+		],
+		"persianName": "قارعة",
+		"englishName": "The Catastrophe",
+		"numAyat": 11,
+		"revelationPlace": "مَكيَّة",
+		"index": 101
+	},
+	{
+		"name": "القِيَامَة",
+		"pronunciation": "al-Qiyāmah",
+		"names": [
+			"القيامة"
+		],
+		"persianName": "قیامة",
+		"englishName": "Resurrection",
+		"numAyat": 40,
+		"revelationPlace": "مَكيَّة",
+		"index": 75
+	},
+	{
+		"name": "الهُمَزَة",
+		"pronunciation": "al-Humazah",
+		"names": [
+			"الهمزة"
+		],
+		"persianName": "الهمزة",
+		"englishName": "The Scandal-monger",
+		"numAyat": 9,
+		"revelationPlace": "مَكيَّة",
+		"index": 104
+	},
+	{
+		"name": "المُرسَلات",
+		"pronunciation": "al-Mursalāt",
+		"names": [
+			"المرسلات"
+		],
+		"persianName": "مرسلات",
+		"englishName": "The Emissaries",
+		"numAyat": 50,
+		"revelationPlace": "مَكيَّة",
+		"index": 77
+	},
+	{
+		"name": "ق",
+		"pronunciation": "Qāf",
+		"names": [
+			"ق"
+		],
+		"persianName": "ق",
+		"englishName": "Qaf",
+		"numAyat": 45,
+		"revelationPlace": "مَكيَّة",
+		"index": 50
+	},
+	{
+		"name": "البَلَد",
+		"pronunciation": "al-Balad",
+		"names": [
+			"البلد"
+		],
+		"persianName": "بلد",
+		"englishName": "The City",
+		"numAyat": 20,
+		"revelationPlace": "مَكيَّة",
+		"index": 90
+	},
+	{
+		"name": "الطَّارِق",
+		"pronunciation": "al-Ṭāriq",
+		"names": [
+			"الطارق"
+		],
+		"persianName": "الطارق",
+		"englishName": "The Nightly Visitor",
+		"numAyat": 17,
+		"revelationPlace": "مَكيَّة",
+		"index": 86
+	},
+	{
+		"name": "القَمَر",
+		"pronunciation": "al-Qamar",
+		"names": [
+			"القمر"
+		],
+		"persianName": "قمر",
+		"englishName": "The Moon",
+		"numAyat": 55,
+		"revelationPlace": "مَكيَّة",
+		"index": 54
+	},
+	{
+		"name": "ص",
+		"pronunciation": "Ṣād",
+		"names": [
+			"ص"
+		],
+		"persianName": "ص",
+		"englishName": "Sad",
+		"numAyat": 88,
+		"revelationPlace": "مَكيَّة",
+		"index": 38
+	},
+	{
+		"name": "الأعرَاف",
+		"pronunciation": "al-A‘rāf",
+		"names": [
+			"الأعراف"
+		],
+		"persianName": "اعراف",
+		"englishName": "The Elevations",
+		"numAyat": 206,
+		"revelationPlace": "مَكيَّة",
+		"index": 7
+	},
+	{
+		"name": "الجِن",
+		"pronunciation": "al-Jinn",
+		"names": [
+			"الجن"
+		],
+		"persianName": "جن",
+		"englishName": "The Jinn",
+		"numAyat": 28,
+		"revelationPlace": "مَكيَّة",
+		"index": 72
+	},
+	{
+		"name": "يس",
+		"pronunciation": "Yā Sīn",
+		"names": [
+			"يس"
+		],
+		"persianName": "یس",
+		"englishName": "Ya Sin",
+		"numAyat": 83,
+		"revelationPlace": "مَكيَّة",
+		"index": 36
+	},
+	{
+		"name": "الفُرْقان",
+		"pronunciation": "al-Furqān",
+		"names": [
+			"الفرقان"
+		],
+		"persianName": "فرقان",
+		"englishName": "The Criterion",
+		"numAyat": 77,
+		"revelationPlace": "مَكيَّة",
+		"index": 25
+	},
+	{
+		"name": "فَاطِر",
+		"pronunciation": "Fāṭir",
+		"names": [
+			"فاطر"
+		],
+		"persianName": "فاطر",
+		"englishName": "The Originator",
+		"numAyat": 45,
+		"revelationPlace": "مَكيَّة",
+		"index": 35
+	},
+	{
+		"name": "مَريَم",
+		"pronunciation": "Maryam",
+		"names": [
+			"مريم"
+		],
+		"persianName": "مریم",
+		"englishName": "Mary",
+		"numAyat": 98,
+		"revelationPlace": "مَكيَّة",
+		"index": 19
+	},
+	{
+		"name": "طه",
+		"pronunciation": "Ṭā Ḥā",
+		"names": [
+			"طه"
+		],
+		"persianName": "طه",
+		"englishName": "Ta Ha",
+		"numAyat": 135,
+		"revelationPlace": "مَكيَّة",
+		"index": 20
+	},
+	{
+		"name": "الوَاقِعَة",
+		"pronunciation": "al-Wāqi‘ah",
+		"names": [
+			"الواقعة"
+		],
+		"persianName": "واقعه",
+		"englishName": "The Imminent",
+		"numAyat": 96,
+		"revelationPlace": "مَكيَّة",
+		"index": 56
+	},
+	{
+		"name": "الشُّعَرَاء",
+		"pronunciation": "al-Shu‘arā’",
+		"names": [
+			"الشعراء"
+		],
+		"persianName": "شعراء",
+		"englishName": "The Poets",
+		"numAyat": 227,
+		"revelationPlace": "مَكيَّة",
+		"index": 26
+	},
+	{
+		"name": "النَّمْل",
+		"pronunciation": "al-Naml",
+		"names": [
+			"النمل"
+		],
+		"persianName": "نمل",
+		"englishName": "The Ants",
+		"numAyat": 93,
+		"revelationPlace": "مَكيَّة",
+		"index": 27
+	},
+	{
+		"name": "القَصَص",
+		"pronunciation": "al-Qaṣaṣ",
+		"names": [
+			"القصص"
+		],
+		"persianName": "قصص",
+		"englishName": "The Story",
+		"numAyat": 88,
+		"revelationPlace": "مَكيَّة",
+		"index": 28
+	},
+	{
+		"name": "الإسْرَاء",
+		"pronunciation": "al-Isrā’",
+		"names": [
+			"الإسراء",
+			"بَنِي إِسرائيل"
+		],
+		"persianName": "اسراء",
+		"englishName": "The Night Journey",
+		"numAyat": 111,
+		"revelationPlace": "مَكيَّة",
+		"index": 17
+	},
+	{
+		"name": "يُونس",
+		"pronunciation": "Yūnus",
+		"names": [
+			"يونس"
+		],
+		"persianName": "یونس",
+		"englishName": "Jonah",
+		"numAyat": 109,
+		"revelationPlace": "مَكيَّة",
+		"index": 10
+	},
+	{
+		"name": "هُود",
+		"pronunciation": "Hūd",
+		"names": [
+			"هود"
+		],
+		"persianName": "هود",
+		"englishName": "Hud",
+		"numAyat": 123,
+		"revelationPlace": "مَكيَّة",
+		"index": 11
+	},
+	{
+		"name": "يُوسُف",
+		"pronunciation": "Yūsuf",
+		"names": [
+			"يوسف"
+		],
+		"persianName": "یوسف",
+		"englishName": "Joseph",
+		"numAyat": 111,
+		"revelationPlace": "مَكيَّة",
+		"index": 12
+	},
+	{
+		"name": "الحِجْر",
+		"pronunciation": "al-Ḥijr",
+		"names": [
+			"الحجر"
+		],
+		"persianName": "حجر",
+		"englishName": "Hijr",
+		"numAyat": 99,
+		"revelationPlace": "مَكيَّة",
+		"index": 15
+	},
+	{
+		"name": "الأنعَام",
+		"pronunciation": "al-An‘ām",
+		"names": [
+			"الأنعام"
+		],
+		"persianName": "انعام",
+		"englishName": "Cattle",
+		"numAyat": 165,
+		"revelationPlace": "مَكيَّة",
+		"index": 6
+	},
+	{
+		"name": "الصَّافات",
+		"pronunciation": "al-Ṣaffāt",
+		"names": [
+			"الصافات"
+		],
+		"persianName": "صافات",
+		"englishName": "The Ranged Ones",
+		"numAyat": 182,
+		"revelationPlace": "مَكيَّة",
+		"index": 37
+	},
+	{
+		"name": "لقمَان",
+		"pronunciation": "Luqmān",
+		"names": [
+			"لقمان"
+		],
+		"persianName": "لقمان",
+		"englishName": "Luqman",
+		"numAyat": 34,
+		"revelationPlace": "مَكيَّة",
+		"index": 31
+	},
+	{
+		"name": "سَبَأ",
+		"pronunciation": "Saba’",
+		"names": [
+			"سبإ"
+		],
+		"persianName": "سبا",
+		"englishName": "Sheba",
+		"numAyat": 54,
+		"revelationPlace": "مَكيَّة",
+		"index": 34
+	},
+	{
+		"name": "الزُّمَر",
+		"pronunciation": "al-Zumar",
+		"names": [
+			"الزمر"
+		],
+		"persianName": "زمر",
+		"englishName": "The Throngs",
+		"numAyat": 75,
+		"revelationPlace": "مَكيَّة",
+		"index": 39
+	},
+	{
+		"name": "غَافِر",
+		"pronunciation": "al-Ghāfir",
+		"names": [
+			"غافر",
+			"المُؤْمِن"
+		],
+		"persianName": "غافر",
+		"englishName": "The Forgiver",
+		"numAyat": 85,
+		"revelationPlace": "مَكيَّة",
+		"index": 40
+	},
+	{
+		"name": "فُصِّلَتْ",
+		"pronunciation": "Fuṣṣilat",
+		"names": [
+			"فصلت",
+			"حم سجدة"
+		],
+		"persianName": "فصلت",
+		"englishName": "Elaborated",
+		"numAyat": 54,
+		"revelationPlace": "مَكيَّة",
+		"index": 41
+	},
+	{
+		"name": "الشُّورَى",
+		"pronunciation": "al-Shūrā",
+		"names": [
+			"الشورى"
+		],
+		"persianName": "شوری",
+		"englishName": "Consultation",
+		"numAyat": 53,
+		"revelationPlace": "مَكيَّة",
+		"index": 42
+	},
+	{
+		"name": "الزُّخْرُف",
+		"pronunciation": "al-Zukhruf",
+		"names": [
+			"الزخرف"
+		],
+		"persianName": "زخرف",
+		"englishName": "Ornaments",
+		"numAyat": 89,
+		"revelationPlace": "مَكيَّة",
+		"index": 43
+	},
+	{
+		"name": "الدخَان",
+		"pronunciation": "al-Dukhān",
+		"names": [
+			"الدخان"
+		],
+		"persianName": "دخان",
+		"englishName": "Smoke",
+		"numAyat": 59,
+		"revelationPlace": "مَكيَّة",
+		"index": 44
+	},
+	{
+		"name": "الجَاثيَة",
+		"pronunciation": "al-Jāthiyah",
+		"names": [
+			"الجاثية"
+		],
+		"persianName": "جاثیه",
+		"englishName": "Crowling",
+		"numAyat": 37,
+		"revelationPlace": "مَكيَّة",
+		"index": 45
+	},
+	{
+		"name": "الأحْقاف",
+		"pronunciation": "al-Aḥqāf",
+		"names": [
+			"الأحقاف"
+		],
+		"persianName": "احقاف",
+		"englishName": "Ahqaf",
+		"numAyat": 35,
+		"revelationPlace": "مَكيَّة",
+		"index": 46
+	},
+	{
+		"name": "الذَّاريَات",
+		"pronunciation": "al-Dhāriyāt",
+		"names": [
+			"الذاريات"
+		],
+		"persianName": "ذاریات",
+		"englishName": "The Scatterers",
+		"numAyat": 60,
+		"revelationPlace": "مَكيَّة",
+		"index": 51
+	},
+	{
+		"name": "الغَاشِية",
+		"pronunciation": "al-Ghāshiyah",
+		"names": [
+			"الغاشية"
+		],
+		"persianName": "الغاشیة",
+		"englishName": "The Enveloper",
+		"numAyat": 26,
+		"revelationPlace": "مَكيَّة",
+		"index": 88
+	},
+	{
+		"name": "الكهْف",
+		"pronunciation": "al-Kahf",
+		"names": [
+			"الكهف"
+		],
+		"persianName": "کهف",
+		"englishName": "The Cave",
+		"numAyat": 110,
+		"revelationPlace": "مَكيَّة",
+		"index": 18
+	},
+	{
+		"name": "النَّحْل",
+		"pronunciation": "al-Naḥl",
+		"names": [
+			"النحل"
+		],
+		"persianName": "نحل",
+		"englishName": "The Bee",
+		"numAyat": 128,
+		"revelationPlace": "مَكيَّة",
+		"index": 16
+	},
+	{
+		"name": "نُوح",
+		"pronunciation": "Nūḥ",
+		"names": [
+			"نوح"
+		],
+		"persianName": "نوح",
+		"englishName": "Noah",
+		"numAyat": 28,
+		"revelationPlace": "مَكيَّة",
+		"index": 71
+	},
+	{
+		"name": "إبراهِيم",
+		"pronunciation": "Ibrāhīm",
+		"names": [
+			"ابراهيم"
+		],
+		"persianName": "ابراهیم",
+		"englishName": "Abraham",
+		"numAyat": 52,
+		"revelationPlace": "مَكيَّة",
+		"index": 14
+	},
+	{
+		"name": "الأنبيَاء",
+		"pronunciation": "al-Anbiyā’",
+		"names": [
+			"الأنبياء"
+		],
+		"persianName": "انبیاء",
+		"englishName": "The Prophets",
+		"numAyat": 112,
+		"revelationPlace": "مَكيَّة",
+		"index": 21
+	},
+	{
+		"name": "المُؤمنون",
+		"pronunciation": "al-Mu’minūn",
+		"names": [
+			"المؤمنون"
+		],
+		"persianName": "مؤمنون",
+		"englishName": "The Faithful",
+		"numAyat": 118,
+		"revelationPlace": "مَكيَّة",
+		"index": 23
+	},
+	{
+		"name": "السَّجدَة",
+		"pronunciation": "al-Sajdah",
+		"names": [
+			"السجدة"
+		],
+		"persianName": "سجده",
+		"englishName": "Prostration",
+		"numAyat": 30,
+		"revelationPlace": "مَكيَّة",
+		"index": 32
+	},
+	{
+		"name": "الطُّور",
+		"pronunciation": "al-Ṭūr",
+		"names": [
+			"الطور"
+		],
+		"persianName": "طور",
+		"englishName": "The Mount",
+		"numAyat": 49,
+		"revelationPlace": "مَكيَّة",
+		"index": 52
+	},
+	{
+		"name": "المُلْك",
+		"pronunciation": "al-Mulk",
+		"names": [
+			"الملك",
+			"تَبَارَكَ",
+			"تَبَارَكَ الذي بِيَدِهِ الملك"
+		],
+		"persianName": "ملک",
+		"englishName": "Sovereignty",
+		"numAyat": 30,
+		"revelationPlace": "مَكيَّة",
+		"index": 67
+	},
+	{
+		"name": "الحَاقَّة",
+		"pronunciation": "al-Ḥāqqah",
+		"names": [
+			"الحاقة"
+		],
+		"persianName": "الحاقة",
+		"englishName": "The Inevitable",
+		"numAyat": 52,
+		"revelationPlace": "مَكيَّة",
+		"index": 69
+	},
+	{
+		"name": "المعَارج",
+		"pronunciation": "al-Ma‘ārij",
+		"names": [
+			"المعارج"
+		],
+		"persianName": "معارج",
+		"englishName": "Lofty Stations",
+		"numAyat": 44,
+		"revelationPlace": "مَكيَّة",
+		"index": 70
+	},
+	{
+		"name": "النَّبَأ",
+		"pronunciation": "al-Naba’",
+		"names": [
+			"النبإ"
+		],
+		"persianName": "نبا",
+		"englishName": "The Tiding",
+		"numAyat": 40,
+		"revelationPlace": "مَكيَّة",
+		"index": 78
+	},
+	{
+		"name": "النّازعَات",
+		"pronunciation": "al-Nāzi‘āt",
+		"names": [
+			"النازعات"
+		],
+		"persianName": "نازعات",
+		"englishName": "The Wresters",
+		"numAyat": 46,
+		"revelationPlace": "مَكيَّة",
+		"index": 79
+	},
+	{
+		"name": "الانفِطار",
+		"pronunciation": "al-Infiṭār",
+		"names": [
+			"الإنفطار"
+		],
+		"persianName": "انفطار",
+		"englishName": "The Rending",
+		"numAyat": 19,
+		"revelationPlace": "مَكيَّة",
+		"index": 82
+	},
+	{
+		"name": "الانْشِقَاق",
+		"pronunciation": "al-Inshiqāq",
+		"names": [
+			"الإنشقاق"
+		],
+		"persianName": "انشقاق",
+		"englishName": "The Splitting",
+		"numAyat": 25,
+		"revelationPlace": "مَكيَّة",
+		"index": 84
+	},
+	{
+		"name": "الرُّوم",
+		"pronunciation": "al-Rūm",
+		"names": [
+			"الروم"
+		],
+		"persianName": "روم",
+		"englishName": "The Byzantines",
+		"numAyat": 60,
+		"revelationPlace": "مَكيَّة",
+		"index": 30
+	},
+	{
+		"name": "العَنكبوت",
+		"pronunciation": "al-‘Ankabūt",
+		"names": [
+			"العنكبوت"
+		],
+		"persianName": "عنکبوت",
+		"englishName": "The Spider",
+		"numAyat": 69,
+		"revelationPlace": "مَكيَّة",
+		"index": 29
+	},
+	{
+		"name": "المطفِّفِين",
+		"pronunciation": "al-Muṭaffifīn",
+		"names": [
+			"المطففين"
+		],
+		"persianName": "مطففین",
+		"englishName": "The Defrauding",
+		"numAyat": 36,
+		"revelationPlace": "مَكيَّة",
+		"index": 83
+	},
+	{
+		"name": "البَقَرَة",
+		"pronunciation": "al-Baqarah",
+		"names": [
+			"البقرة"
+		],
+		"persianName": "بقره",
+		"englishName": "The Cow",
+		"numAyat": 286,
+		"revelationPlace": "مَدنيَّة",
+		"index": 2
+	},
+	{
+		"name": "الأنفَال",
+		"pronunciation": "al-Anfāl",
+		"names": [
+			"الأنفال"
+		],
+		"persianName": "انفال",
+		"englishName": "The Spoils",
+		"numAyat": 75,
+		"revelationPlace": "مَدنيَّة",
+		"index": 8
+	},
+	{
+		"name": "آل عِمرَان",
+		"pronunciation": "Āl ‘Imrān",
+		"names": [
+			"آل عمران"
+		],
+		"persianName": "آل عمران",
+		"englishName": "The Family of Imran",
+		"numAyat": 200,
+		"revelationPlace": "مَدنيَّة",
+		"index": 3
+	},
+	{
+		"name": "الأحزَاب",
+		"pronunciation": "al-Aḥzāb",
+		"names": [
+			"الأحزاب"
+		],
+		"persianName": "احزاب",
+		"englishName": "The Confederates",
+		"numAyat": 73,
+		"revelationPlace": "مَدنيَّة",
+		"index": 33
+	},
+	{
+		"name": "المُمتَحنَة",
+		"pronunciation": "al-Mumtaḥanah",
+		"names": [
+			"الممتحنة"
+		],
+		"persianName": "ممتحنه",
+		"englishName": "The Woman Tested",
+		"numAyat": 13,
+		"revelationPlace": "مَدنيَّة",
+		"index": 60
+	},
+	{
+		"name": "النِّسَاء",
+		"pronunciation": "al-Nisā’",
+		"names": [
+			"النساء"
+		],
+		"persianName": "نساء",
+		"englishName": "Women",
+		"numAyat": 176,
+		"revelationPlace": "مَدنيَّة",
+		"index": 4
+	},
+	{
+		"name": "الزلزَلة",
+		"pronunciation": "al-Zalzalah",
+		"names": [
+			"الزلزلة"
+		],
+		"persianName": "زلزال",
+		"englishName": "The Quake",
+		"numAyat": 8,
+		"revelationPlace": "مَدنيَّة",
+		"index": 99
+	},
+	{
+		"name": "الحَديد",
+		"pronunciation": "al-Ḥadīd",
+		"names": [
+			"الحديد"
+		],
+		"persianName": "حدید",
+		"englishName": "Iron",
+		"numAyat": 29,
+		"revelationPlace": "مَدنيَّة",
+		"index": 57
+	},
+	{
+		"name": "محَمَّد",
+		"pronunciation": "Muḥammad",
+		"names": [
+			"محمد"
+		],
+		"persianName": "محمد",
+		"englishName": "Muhammad",
+		"numAyat": 38,
+		"revelationPlace": "مَدنيَّة",
+		"index": 47
+	},
+	{
+		"name": "الرَّعْد",
+		"pronunciation": "al-Ra‘d",
+		"names": [
+			"الرعد"
+		],
+		"persianName": "رعد",
+		"englishName": "Thunder",
+		"numAyat": 43,
+		"revelationPlace": "مَدنيَّة",
+		"index": 13
+	},
+	{
+		"name": "الرَّحمن",
+		"pronunciation": "al-Raḥmān",
+		"names": [
+			"الرحمن"
+		],
+		"persianName": "الرحمن",
+		"englishName": "The All-beneficent",
+		"numAyat": 78,
+		"revelationPlace": "مَدنيَّة",
+		"index": 55
+	},
+	{
+		"name": "الإنسَان",
+		"pronunciation": "al-Insān",
+		"names": [
+			"الانسان"
+		],
+		"persianName": "انسان",
+		"englishName": "Man",
+		"numAyat": 31,
+		"revelationPlace": "مَدنيَّة",
+		"index": 76
+	},
+	{
+		"name": "الطلَاق",
+		"pronunciation": "al-Ṭalāq",
+		"names": [
+			"الطلاق"
+		],
+		"persianName": "طلاق",
+		"englishName": "Divorce",
+		"numAyat": 12,
+		"revelationPlace": "مَدنيَّة",
+		"index": 65
+	},
+	{
+		"name": "البَينَة",
+		"pronunciation": "al-Bayyinah",
+		"names": [
+			"البينة"
+		],
+		"persianName": "بینة",
+		"englishName": "The Proof",
+		"numAyat": 8,
+		"revelationPlace": "مَدنيَّة",
+		"index": 98
+	},
+	{
+		"name": "الحَشر",
+		"pronunciation": "al-Ḥashr",
+		"names": [
+			"الحشر"
+		],
+		"persianName": "حشر",
+		"englishName": "The Banishment",
+		"numAyat": 24,
+		"revelationPlace": "مَدنيَّة",
+		"index": 59
+	},
+	{
+		"name": "النَّصر",
+		"pronunciation": "al-Naṣr",
+		"names": [
+			"النصر"
+		],
+		"persianName": "نصر",
+		"englishName": "The Help",
+		"numAyat": 3,
+		"revelationPlace": "مَدنيَّة",
+		"index": 110
+	},
+	{
+		"name": "النُّور",
+		"pronunciation": "al-Nūr",
+		"names": [
+			"النور"
+		],
+		"persianName": "نور",
+		"englishName": "The Light",
+		"numAyat": 64,
+		"revelationPlace": "مَدنيَّة",
+		"index": 24
+	},
+	{
+		"name": "الحَج",
+		"pronunciation": "al-Ḥajj",
+		"names": [
+			"الحج"
+		],
+		"persianName": "حج",
+		"englishName": "The Pilgrimage",
+		"numAyat": 78,
+		"revelationPlace": "مَدنيَّة",
+		"index": 22
+	},
+	{
+		"name": "المنَافِقون",
+		"pronunciation": "al-Munāfiqūn",
+		"names": [
+			"المنافقون"
+		],
+		"persianName": "منافقون",
+		"englishName": "The Hypocrites",
+		"numAyat": 11,
+		"revelationPlace": "مَدنيَّة",
+		"index": 63
+	},
+	{
+		"name": "المجَادلة",
+		"pronunciation": "al-Mujādilah",
+		"names": [
+			"المجادلة"
+		],
+		"persianName": "مجادله",
+		"englishName": "The Pleader",
+		"numAyat": 22,
+		"revelationPlace": "مَدنيَّة",
+		"index": 58
+	},
+	{
+		"name": "الحُجرَات",
+		"pronunciation": "al-Ḥujurāt",
+		"names": [
+			"الحجرات"
+		],
+		"persianName": "حجرات",
+		"englishName": "Apartments",
+		"numAyat": 18,
+		"revelationPlace": "مَدنيَّة",
+		"index": 49
+	},
+	{
+		"name": "التحْريم",
+		"pronunciation": "al-Taḥrīm",
+		"names": [
+			"التحريم"
+		],
+		"persianName": "تحریم",
+		"englishName": "The Forbidding",
+		"numAyat": 12,
+		"revelationPlace": "مَدنيَّة",
+		"index": 66
+	},
+	{
+		"name": "الجُمُعَة",
+		"pronunciation": "al-Jumu‘ah",
+		"names": [
+			"الجمعة"
+		],
+		"persianName": "جمعه",
+		"englishName": "Friday",
+		"numAyat": 11,
+		"revelationPlace": "مَدنيَّة",
+		"index": 62
+	},
+	{
+		"name": "التغَابُن",
+		"pronunciation": "al-Taghābun",
+		"names": [
+			"التغابن"
+		],
+		"persianName": "تغابن",
+		"englishName": "Dispossession",
+		"numAyat": 18,
+		"revelationPlace": "مَدنيَّة",
+		"index": 64
+	},
+	{
+		"name": "الصَّف",
+		"pronunciation": "al-Ṣaff",
+		"names": [
+			"الصف"
+		],
+		"persianName": "صف",
+		"englishName": "Ranks",
+		"numAyat": 14,
+		"revelationPlace": "مَدنيَّة",
+		"index": 61
+	},
+	{
+		"name": "الفَتْح",
+		"pronunciation": "al-Fatḥ",
+		"names": [
+			"الفتح"
+		],
+		"persianName": "فتح",
+		"englishName": "Victory",
+		"numAyat": 29,
+		"revelationPlace": "مَدنيَّة",
+		"index": 48
+	},
+	{
+		"name": "المَائدة",
+		"pronunciation": "al-Mā’idah",
+		"names": [
+			"المائدة"
+		],
+		"persianName": "مائده",
+		"englishName": "The Table",
+		"numAyat": 120,
+		"revelationPlace": "مَدنيَّة",
+		"index": 5
+	},
+	{
+		"name": "التوبَة",
+		"pronunciation": "al-Tawbah",
+		"names": [
+			"التوبة",
+			"براءة"
+		],
+		"persianName": "توبه",
+		"englishName": "Repentance",
+		"numAyat": 129,
+		"revelationPlace": "مَدنيَّة",
+		"index": 9
+	}
+]

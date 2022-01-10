@@ -1,0 +1,29 @@
+{
+	"name": "quran",
+	"version": "0.0.0",
+	"description": "A place to hold every programming resources about the Holy Quran",
+	"keywords": [
+    "قرآن",
+    "قرآن کریم",
+    "متن کامل قرآن کریم",
+    "Quran",
+    "The Quran",
+    "The Holy Quran",
+    "Whole Quran's text",
+    "Full text of the Holy Quran"
+  ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mirismaili/Quran.git"
+	},
+	"license": "MIT",
+	"author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
+	"type": "module",
+	"main": "src/main.js",
+	"scripts": {},
+	"dependencies": {},
+	"devDependencies": {},
+	"engines": {
+		"node": ">=16"
+	}
+}
